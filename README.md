@@ -1,2 +1,5 @@
 # Sentimental-analysis-on-Movie-reviews
-The objective of this project is to perform sentiment analysis on movie reviews written by critics to provide insights into the sentiment expressed in movie reviews. 
+The objective of this project is to perform sentiment analysis on movie reviews written by critics to provide insights into the sentiment expressed in movie reviews. The project aims to build a robust and accurate sentiment analysis text classifier that can effectively classify movie reviews as either positive or negative based on the emotional tone of the text. By analyzing the sentiments expressed in the reviews, this project will offer valuable insights to the film industry, enabling filmmakers and industry professionals to make informed decisions and enhance the movie-watching experience. To achieve this objective, the project will utilize the Rotten Tomatoes dataset, employ logistic regression as the text classification algorithm, and implement various text preprocessing techniques and performance evaluation measures.
+
+The dataset was obtained from Kaggle and can be found at the following link: 
+# https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews
